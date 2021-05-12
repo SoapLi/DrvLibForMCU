@@ -1,0 +1,52 @@
+{
+    "files.associations": {
+		"array": "c",
+		"vector": "c",
+		"xstring": "c",
+		"xutility": "c",
+		"random": "c",
+		"*.ipp": "c",
+		"cstddef": "cpp",
+		"fstream": "cpp",
+		"functional": "cpp",
+		"limits": "cpp",
+		"map": "cpp",
+		"memory": "cpp",
+		"mutex": "cpp",
+		"system_error": "cpp",
+		"unordered_map": "cpp",
+		"xhash": "cpp",
+		"xiosbase": "cpp",
+		"xlocale": "cpp",
+		"xtree": "cpp",
+		"ratio": "c",
+		"*.inc": "c",
+		"lv_demo_widgets.h": "c",
+		"gpio.h": "c",
+		"esp_wifi.h": "c",
+		"esp_wpa2.h": "c",
+		"esp_err.h": "c",
+		"esp_event_loop.h": "c",
+		"lvgl.h": "c",
+		"nvs_flash.h": "c",
+		"dns.h": "c",
+		"netdb.h": "c",
+		"cjson.h": "c",
+		"cjson_utils.h": "c",
+		"esp_netif.h": "c",
+		"lv_label.h": "c",
+		"platform.h": "c",
+		"os.h": "c",
+		"user_http_s.h": "c",
+		"weather_http_service.h": "c",
+		"ui_service.h": "c",
+		"stdbool.h": "c",
+		"wifi_service.h": "c",
+		"weather_https_service.h": "c"
+	},
+	"editor.insertSpaces": false,      //不检测到第一个是tab后面都用tab
+	"editor.detectIndentation": false,      //不检测到第一个是tab后面都用tab
+	"editor.renderControlCharacters": true, //显示制表符是→
+	"editor.renderWhitespace": "all",       //显示4个空格是....
+	"editor.tabSize": 4,                    //tab设置为4个空格
+}
