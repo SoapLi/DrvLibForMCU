@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/ESP32/ESP_IDF/esp-idf-v4.2/components/**",
+				"C:/ESP32/ESP_IDF/esp-idf-v4.2/components/esp_adc_cal/include/**",
+				"C:/ESP32/ESP_IDF/esp-idf-v4.2/components/spi_flash/include/**",
+				"C:/ESP32/ESP_IDF/esp-idf-v4.2/components/app_update/include/**",
+				"${workspaceFolder}/components/lvgl/lvgl/src/lv_widgets/**",
+				"${workspaceFolder}/build/config",
+				"C:/ESP32/ESP_IDF_Tools/.espressif/tools/xtensa-esp32s2-elf/esp-2020r2-8.2.0/xtensa-esp32s2-elf/xtensa-esp32s2-elf/include/sys/**",
+				"C:/ESP32/ESP_IDF_Tools/.espressif/tools/xtensa-esp32s2-elf/esp-2020r2-8.2.0/xtensa-esp32s2-elf/xtensa-esp32s2-elf/include/**"
+
+			],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17763.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
